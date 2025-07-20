@@ -10,7 +10,7 @@ func _ready():
     body_entered.connect(_on_body_entered)
 
 # runs whenever something enters the checkpoint area
-func _on_body_entered(body:Node2D) -> void:
+func _on_body_entered(body:Node2D):
     # only care about the player, ignore other objects
     if body.name == "Player":
         # respawnpoint is a marker2d child that shows exact spawn location
