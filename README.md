@@ -233,22 +233,11 @@ in `Player.gd`, modify these constants:
 - **signals tutorial**: understanding godot's event system
 
 
-
-## contributing
-
-feel free to fork this project and submit pull requests for improvements. some ideas for contributions:
-
 ### code improvements
 - better error handling and edge case management
 - performance optimizations for larger levels
 - more modular and reusable components
 - additional movement mechanics (wall jumping, dashing)
-
-### documentation
-- video tutorials showing setup process
-- expanded troubleshooting section
-- beginner guides for common modifications
-- example scenes demonstrating advanced techniques
 
 ### assets
 - sprite sheets for character animation
