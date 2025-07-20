@@ -19,9 +19,6 @@
 
 
 
-
-
-
 ## how the scripts work together
 
 **the game architecture**
