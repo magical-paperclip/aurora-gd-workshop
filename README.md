@@ -93,7 +93,7 @@ the game uses a **manager pattern** where different components communicate throu
 
 ### main scene setup
 
-# main scene Setup
+# main scenes setup
 
 ```
 main (Node2D)          # root node - container for everything
